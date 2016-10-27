@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kayak</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_app_base">AppBaseActivity</string>
+    <string name="action_fav_toggle">Favs</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_phone">Phone No: </string>
+    <string name="title_site">Website: </string>
+
+</resources>
